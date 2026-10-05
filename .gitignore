@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+carat_notes.txt
+.venv/
+venv/
